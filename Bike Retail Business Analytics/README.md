@@ -1,4 +1,4 @@
-# Bike Retail Business Analytics
+# Bike Retail Business Analysis
 
 **Project Overview**  
 This project applies analytics to a bicycle retail business to extract meaningful insights from transaction data. We performed analyses including change-over-time trends, cumulative and performance evaluation, segmentation of customers and products.
