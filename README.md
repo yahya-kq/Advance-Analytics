@@ -14,6 +14,6 @@ Explore my other repositories, each dedicated to specialized, advanced projects 
 - [Power BI Dashboards](https://github.com/yahyakhan98/Power-BI-Dashbords.git)
 - [SQL Projects](https://github.com/yahyakhan98/Sql-Projects.git)
 - [Financial Analytics](https://github.com/yahya-kq/Financial-Analytics)
-- [BI Solutions](https://github.com/yahya-kq/BI-Solution)
+- [BI Solutions](https://github.com/yahya-kq/BI-Solutions)
 
 More projects will be added as the repository grows.
