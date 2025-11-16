@@ -8,7 +8,6 @@ A real-time weather dashboard built with Power BI, delivering live weather insig
 - [✨ Key Features](#-key-features)  
 - [🔗 Data Sources](#-data-sources)  
 - [📊 Dashboard Structure](#-dashboard-structure)  
-- [🛠️ How to Use](#-how-to-use)  
 - [🚀 Future Enhancements](#-future-enhancements)  
 - [👨‍💻 Author](#-author)  
 
@@ -55,14 +54,6 @@ A comprehensive Power BI dashboard providing real-time weather conditions, forec
 - **Fact Tables:** Current weather, forecasts, air quality metrics  
 - **Dimension Tables:** Cities, dates, weather conditions lookup  
 - **Relationships:** Star schema design for optimal performance  
-
-
-## 🛠️ How to Use
-1. 📥 **Download:** Clone repository and open `Weather_Dashboard.pbix`  
-2. 🔑 **Configure:** Add your weather API key in Power Query settings  
-3. 🔄 **Refresh:** Click refresh to load live data (internet required)  
-4. 🔍 **Explore:** Use slicers to filter by city and navigate forecasts  
-
 
 ## 👨‍💻 Author
 **Yahya Khan**  
