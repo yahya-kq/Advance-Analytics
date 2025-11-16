@@ -1,16 +1,19 @@
-# NextGen-Intelligence  
+# NextGen-Intelligence
 
-**A portfolio of projects at the intersection of data, business intelligence, AI/ML, and automation built to deliver actionable business and financial insights.** 
-  
-## 🌟 **About This Repository**  
-This repository is my flagship hub, showcasing selected projects where **data, intelligence, and automation converge**. It reflects my work in **business intelligence, data analytics, financial analysis, and AI/ML solutions** aimed at driving smarter decision-making.  
+Showcasing advanced analytics projects delivering insights and meaningful business impact.
 
-You'll find something valuable whether you're here to explore, collaborate, or learn!  
-
- **For individual projects, check out my other repositories:**
-
-- **[Excel Projects](https://github.com/yahyakhan98/Excel-Projects.git)**: Data analysis and visualization using Excel.  
-- **[Power BI Projects](https://github.com/yahyakhan98/Power-BI-Dashbords.git)**: Interactive dashboards and reports.  
-- **[SQL Projects](https://github.com/yahyakhan98/Sql-Projects.git)**: Database design, optimization, and querying.
+## About This Repository
+This repository serves as my central hub for strategic, insight-driven analytics work.
+It brings together advanced business projects, high-level data initiatives, and complex analytical solutions designed to support smarter decisions and stronger performance.
 
 
+## Explore My Other Repositories
+Explore my other repositories, each dedicated to specialized, advanced projects in specific domains and workflows
+
+- [Excel Projects](https://github.com/yahyakhan98/Excel-Projects.git)
+- [Power BI Dashboards](https://github.com/yahyakhan98/Power-BI-Dashbords.git)
+- [SQL Projects](https://github.com/yahyakhan98/Sql-Projects.git)
+- [Financial Analytics](https://github.com/yahya-kq/Financial-Analytics)
+- [BI Solutions](https://github.com/yahya-kq/BI-Solution)
+
+More projects will be added as the repository grows.
