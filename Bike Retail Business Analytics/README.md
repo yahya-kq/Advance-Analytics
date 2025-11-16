@@ -1,7 +1,7 @@
 # Bike Retail Business Analytics
 
 **Project Overview**  
-This project applies analytics to a bicycle retail business to extract meaningful insights from transaction data. We performed analyses including change-over-time trends, cumulative and performance evaluation, segmentation of customers and products, and part-to-whole contributions.
+This project applies analytics to a bicycle retail business to extract meaningful insights from transaction data. We performed analyses including change-over-time trends, cumulative and performance evaluation, segmentation of customers and products.
 
 We created **Customer Reports** and **Product Reports** to help the company identify high-value customers, track sales trends, monitor product performance, and make data-driven business decisions. The project demonstrates practical solutions for revenue growth, improved marketing targeting, and inventory optimization. Key SQL functions were used to implement these analyses efficiently.
 
@@ -22,10 +22,6 @@ We created **Customer Reports** and **Product Reports** to help the company iden
 ### 4. Data Segmentation Analysis
 **Purpose**: Divide customers and products into meaningful groups.  
 **Use Case**: Identify VIP, regular, and new customers; classify high, mid, and low-performing products.
-
-### 5. Part-to-Whole Analysis
-**Purpose**: Determine contribution of individual elements to overall performance.  
-**Use Case**: Measure revenue share by product, assess top customer contribution, monitor regional sales.
 
 ## Customer Report
 - Consolidates customer behavior, value, and segmentation  
