@@ -17,7 +17,6 @@ This tool allows users to enter any keyword, instantly updating visuals to displ
 ## Project Overview
 This Power BI dashboard tracks global job-related Google search trends and provides interactive insights for strategic decision-making. It demonstrates how business intelligence can reveal patterns in labor demand, skill popularity, and emerging career opportunities.  
 
-**Start Date:** [Insert Date]  
 **Purpose:** Monitor trends in job-related searches for business and educational insights  
 
 
@@ -54,8 +53,8 @@ This Power BI dashboard tracks global job-related Google search trends and provi
 ## Author
 **Yahya Khan**  
 
-**Portfolio:** [https://yahya-kq.odoo.com/](https://yahya-kq.odoo.com/)  
+
 **LinkedIn:** [https://www.linkedin.com/in/yahya-kq](https://www.linkedin.com/in/yahya-kq)  
-**GitHub:** [https://github.com/yahya-kq](https://github.com/yahya-kq)  
+
 
 If you like this project, give it a ⭐ and explore my other repositories for more BI and analytics projects.
